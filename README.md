@@ -1,4 +1,7 @@
 # DSCI 552 - Homework 6
+
+This README file is AI-Generated.
+
 ## Contents
 
 - APS Failure data preparation, median imputation, and exploratory plots.
